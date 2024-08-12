@@ -27,12 +27,19 @@ integração de branch: junta diferentes mudanças de diferentes branchs em uma 
 PRINCIPAIS COMANDOS 
 
 git init: inicializa um novo repositório do git 
+
 git clone: clona um repositorio remoto para o local
+
 git add: adiciona arquivoss ao indice 
+
 git commit: cria um commit com arquivos adicionados 
+
 git pull: atualiza o repositorio local com as mudanças feitas no repositorio remoto
+
 gti push: envia commits locais para repositorios remotos
+
 git branch: te diz em que branch voce esta 
+
 git merge: mescla branchs
 
 BENEFICIOS 
