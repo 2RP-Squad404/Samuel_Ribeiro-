@@ -1,4 +1,4 @@
-# relatorio semana 1
+ relatorio semana 1
 Relatório, primeira semana dia 01/08/2024
 
 GIT 
@@ -45,6 +45,8 @@ git merge: mescla branchs
 BENEFICIOS 
 
 -permite que mais de uma pessoa trabalhe tranquilamente em um mesmo projeto 
+
 -mantém o histórico de mudanças feitas durante todo o projeto 
+
 -facilita o desenvolvimento de novas funcionalidades e correção de bugs sem afetar o código estável
 
