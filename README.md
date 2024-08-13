@@ -134,4 +134,7 @@ Google BigQuery é uma plataforma e ferramenta que auxilia no gerenciamento, arm
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+## Computação em nuvem 
+
+- A computação em nuvem é o fornecimento de recursos de TI (servidores, armazenamento, software) pela internet, permitindo que empresas escalem serviços conforme necessário e paguem apenas pelo que usam. É flexível, acessível de qualquer lugar e elimina a necessidade de infraestrutura física local, sendo ideal para armazenamento, análise de dados, desenvolvimento de software e hospedagem de aplicações.
 
