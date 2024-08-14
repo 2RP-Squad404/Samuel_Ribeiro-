@@ -1,11 +1,11 @@
  relatorio semana 1
 Relatório, primeira semana dia 01/08/2024
 
-GIT 
+## GIT 
 O que é?
 Git é um sistema que te ajuda a saber sobre as mudanças feitas no código fonte de um projeto. Ele é muito útil quando várias pessoas estão trabalhando em um mesmo projeto ou quando voce pretende manter o histórico de mudanças feito.
 
-PRINCIPAI CONCEITOS
+### PRINCIPAI CONCEITOS
 
 -repositório (repo)
 Repositório local: armazenado na maquina do desenvolvedor.
@@ -24,7 +24,7 @@ Num projeto existem duas branchs principais a main e a master, ou develop, e a p
 -merge
 integração de branch: junta diferentes mudanças de diferentes branchs em uma unica branch.
 
-PRINCIPAIS COMANDOS 
+### PRINCIPAIS COMANDOS 
 
 git init: inicializa um novo repositório do git 
 
@@ -42,7 +42,7 @@ git branch: te diz em que branch voce esta
 
 git merge: mescla branchs
 
-BENEFICIOS 
+### BENEFICIOS 
 
 -permite que mais de uma pessoa trabalhe tranquilamente em um mesmo projeto 
 
