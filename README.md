@@ -1,11 +1,9 @@
- relatorio semana 1
-Relatório, primeira semana dia 01/08/2024
 
-GIT 
+## GIT 
 O que é?
 Git é um sistema que te ajuda a saber sobre as mudanças feitas no código fonte de um projeto. Ele é muito útil quando várias pessoas estão trabalhando em um mesmo projeto ou quando voce pretende manter o histórico de mudanças feito.
 
-PRINCIPAI CONCEITOS
+### PRINCIPAI CONCEITOS
 
 -repositório (repo)
 Repositório local: armazenado na maquina do desenvolvedor.
@@ -24,7 +22,7 @@ Num projeto existem duas branchs principais a main e a master, ou develop, e a p
 -merge
 integração de branch: junta diferentes mudanças de diferentes branchs em uma unica branch.
 
-PRINCIPAIS COMANDOS 
+### PRINCIPAIS COMANDOS 
 
 git init: inicializa um novo repositório do git 
 
@@ -42,7 +40,7 @@ git branch: te diz em que branch voce esta
 
 git merge: mescla branchs
 
-BENEFICIOS 
+### BENEFICIOS 
 
 -permite que mais de uma pessoa trabalhe tranquilamente em um mesmo projeto 
 
@@ -50,7 +48,7 @@ BENEFICIOS
 
 -facilita o desenvolvimento de novas funcionalidades e correção de bugs sem afetar o código estável
 
-////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ## 2. Big Data 
 
@@ -82,7 +80,7 @@ ex: dados dados pela amazon, netflix e spotify para fazer recomendações.
 ### Variedade 
 - Os dados podem ser estruturados, semi estruturados e não estruturados.
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ## Big Query 
 
@@ -132,15 +130,15 @@ Google BigQuery é uma plataforma e ferramenta que auxilia no gerenciamento, arm
 
 4. Relatórios de Dashboard de BI 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ## Computação em nuvem 
 
 - A computação em nuvem é o fornecimento de recursos de TI (servidores, armazenamento, software) pela internet, permitindo que empresas escalem serviços conforme necessário e paguem apenas pelo que usam. É flexível, acessível de qualquer lugar e elimina a necessidade de infraestrutura física local, sendo ideal para armazenamento, análise de dados, desenvolvimento de software e hospedagem de aplicações.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-## 1. Engenharia de Dados 
+
+## Engenharia de Dados 
 
 É um ramo da engenharia de software onde o engenheiro de dados é responsável por desenvolver, operar, manter extruturas complexas e heerogenêas, e também da  segurança, integridade, disponibilidade e confiabilidade dos dados gerenciados.
 
@@ -189,4 +187,15 @@ Enquanto um data warehouse armazena dados estruturados, um lake é um repositór
 - Ferramentas ETL (Extract, Transform, Load): Apache Nifi, Apache Airflow, Airbyte, Dataflow
 
 - Linguagens de Programação: Python, SQL, Java, Scala, R
+
+
+
+## Modelagem de Dados 
+
+Modelagem de Dados é o modelo que sera ultilizado para os dados para definir a estrutura lógica e a relação entre eles.
+
+- Conceitual: Normalmente envolve a criação do Diagrama de Entidade-Relacionamento (ERD)
+- Lógico: Detalha os atributos dos dados, entidade, relacionamento, tipo e modelo.
+- Físico: tipo de tecnologia que sera usado (PostgreSQL, MySQL, MongoDB, etc), criação do banco de dados, suas tabelas ou documentos, conexão entre elas e tudo que envolva o seu funcionamento.	
+
 
