@@ -48,7 +48,7 @@ git merge: mescla branchs
 
 -facilita o desenvolvimento de novas funcionalidades e correção de bugs sem afetar o código estável
 
-////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ## 2. Big Data 
 
