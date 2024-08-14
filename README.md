@@ -80,7 +80,7 @@ ex: dados dados pela amazon, netflix e spotify para fazer recomendações.
 ### Variedade 
 - Os dados podem ser estruturados, semi estruturados e não estruturados.
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ## Big Query 
 
@@ -130,15 +130,15 @@ Google BigQuery é uma plataforma e ferramenta que auxilia no gerenciamento, arm
 
 4. Relatórios de Dashboard de BI 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ## Computação em nuvem 
 
 - A computação em nuvem é o fornecimento de recursos de TI (servidores, armazenamento, software) pela internet, permitindo que empresas escalem serviços conforme necessário e paguem apenas pelo que usam. É flexível, acessível de qualquer lugar e elimina a necessidade de infraestrutura física local, sendo ideal para armazenamento, análise de dados, desenvolvimento de software e hospedagem de aplicações.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-## 1. Engenharia de Dados 
+
+## Engenharia de Dados 
 
 É um ramo da engenharia de software onde o engenheiro de dados é responsável por desenvolver, operar, manter extruturas complexas e heerogenêas, e também da  segurança, integridade, disponibilidade e confiabilidade dos dados gerenciados.
 
@@ -188,7 +188,7 @@ Enquanto um data warehouse armazena dados estruturados, um lake é um repositór
 
 - Linguagens de Programação: Python, SQL, Java, Scala, R
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 ## Modelagem de Dados 
 
