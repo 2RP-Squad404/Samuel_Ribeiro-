@@ -1,4 +1,3 @@
-
 ## GIT 
 O que é?
 Git é um sistema que te ajuda a saber sobre as mudanças feitas no código fonte de um projeto. Ele é muito útil quando várias pessoas estão trabalhando em um mesmo projeto ou quando voce pretende manter o histórico de mudanças feito.
@@ -227,3 +226,59 @@ Essas transações são operações que envolvem a inserção, atualização, ex
 
 Sem essas bases, seria impossível garantir a confiabilidade e a continuidade das operações em setores como finanças, comércio eletrônico, saúde e logística.
 
+## Análise de Dados 
+
+Processo de inspecionar, limpar e modelar dados com o objetivo de descobrir informações úteis, tirar conclusões e apoiar tomada de decisões.
+
+### Exemplo de análise de dados 
+
+- Análise de mercado
+  Empresas analisam dados de vendas, concorrencia e comportamento do consumidor para ajustar e melhorar as suas estratégias de marketing.
+
+- Análise financeira
+  Bancos usam análise de dados para detectar fraudes, avaliar riscos de créditos e prever desempenhos financeiros.
+
+- Análise de saúde 
+  Hospitais os dados dos pacientes para otimizar diagnósticos, melhorar tratamentos e e prever surtos de doenças.
+
+### 1. coleta de dados 
+- O que é: Reunir informações de várias fontes, como pesquisas, sensores, ou redes sociais.
+- Por que é importante: Precisamos desses dados para analisar e entender o que está acontecendo.
+
+### 2. Preparação e limpeza de dados 
+- O que é: Organizar os dados, remover informações erradas ou duplicadas, e corrigir problemas.
+- Por que é importante: Garantir que os dados estejam corretos e prontos para serem analisados.
+
+### 3. Exploração de dados 
+- O que é: Dar uma primeira olhada nos dados para entender o que eles mostram, como padrões ou tendências.
+- Por que é importante: Ajuda a identificar o que vale a pena investigar mais a fundo.
+
+### 4. Análise descritiva 
+- O que é: Descrever os dados usando números e gráficos, como médias ou frequências.
+- Por que é importante: Ajuda a entender como os dados estão distribuídos e quais são os principais aspectos.
+
+### 5. Análise Diagnóstica
+- O que é: Investigar por que algo aconteceu, buscando entender as causas.
+- Por que é importante: Ajuda a descobrir os motivos por trás de padrões ou problemas nos dados.
+
+### 6. Análise Preditiva
+- O que é: Usar dados do passado para prever o que pode acontecer no futuro.
+- Por que é importante: Ajuda a antecipar eventos, como demanda de produtos ou comportamento dos clientes.
+
+### 7. Análise Prescritiva
+- O que é: Sugerir ações específicas para alcançar um objetivo desejado.
+- Por que é importante: Fornece recomendações práticas para melhorar processos ou resolver problemas.
+
+### 8. Visualização de Dados
+- O que é: Transformar dados em gráficos ou mapas para que sejam mais fáceis de entender.
+- Por que é importante: Facilita a comunicação e a compreensão dos resultados.
+
+### 9. Modelagem de Dados
+- O que é: Criar modelos matemáticos para representar e analisar os dados.
+- Por que é importante: Ajuda a prever resultados e entender relações complexas entre diferentes informações.
+
+### 10. Interpretação e Comunicação
+- O que é: Explicar os resultados da análise de dados e compartilhar as descobertas.
+- Por que é importante: Garante que os insights sejam compreendidos e possam ser usados para tomar decisões melhores.
+
+Esses passos mostram como os dados são coletados, organizados, analisados e apresentados para que possamos tomar decisões informadas e resolver problemas de maneira mais eficaz.
