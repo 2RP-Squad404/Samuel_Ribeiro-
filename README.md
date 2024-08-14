@@ -1,5 +1,3 @@
- relatorio semana 1
-Relatório, primeira semana dia 01/08/2024
 
 ## GIT 
 O que é?
@@ -189,4 +187,15 @@ Enquanto um data warehouse armazena dados estruturados, um lake é um repositór
 - Ferramentas ETL (Extract, Transform, Load): Apache Nifi, Apache Airflow, Airbyte, Dataflow
 
 - Linguagens de Programação: Python, SQL, Java, Scala, R
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+## Modelagem de Dados 
+
+Modelagem de Dados é o modelo que sera ultilizado para os dados para definir a estrutura lógica e a relação entre eles.
+
+- Conceitual: Normalmente envolve a criação do Diagrama de Entidade-Relacionamento (ERD)
+- Lógico: Detalha os atributos dos dados, entidade, relacionamento, tipo e modelo.
+- Físico: tipo de tecnologia que sera usado (PostgreSQL, MySQL, MongoDB, etc), criação do banco de dados, suas tabelas ou documentos, conexão entre elas e tudo que envolva o seu funcionamento.	
+
 
