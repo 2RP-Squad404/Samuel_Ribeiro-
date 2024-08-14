@@ -196,8 +196,34 @@ Modelagem de Dados é o modelo que sera ultilizado para os dados para definir a 
 
 - Conceitual: Normalmente envolve a criação do Diagrama de Entidade-Relacionamento (ERD)
 - Lógico: Detalha os atributos dos dados, entidade, relacionamento, tipo e modelo.
-- Físico: tipo de tecnologia que sera usado (PostgreSQL, MySQL, MongoDB, etc), criação do banco de dados, suas tabelas ou documentos, conexão entre elas e tudo que envolva o seu funcionamento.	
+- Físico: tipo de tecnologia que sera usado (PostgreSQL, MySQL, MongoDB, etc), criação do banco de dados, suas tabelas ou documentos, conexão entre elas e tudo que envolva o seu funcionamento.
+
 
 ## Bases Analíticas
 
 Bases Anlíticas são sistemas de tecnologias que facilitam a análise de uma grande quantia de dados, gerando um desempenho maior nas consultas tornando elas mais rápidas e eficientes, podem lidar com grandes volumes de dados e aumentar a capacidade conforme necessário, suportam diferentes tipos de dados sejam eles estruturados, semiestruturado ou estruturados, é ultilizado tecnologia avançada de modelagem de dados para organização dos dados de maneira lógica. Além de todas essas características tambem possuem ferramentas para mineração de dados, machine learning, visualização de dados e análise estatística.
+
+Uso Comum: Business intelligence (BI), análise de comportamento do cliente, previsão de tendências, relatórios gerenciais.
+
+As bases analíticas desempenham um papel crucial em qualquer organização que busca transformar grandes volumes de dados em insights acionáveis para a tomada de decisões estratégicas.
+Elas são especialmente importantes para entender padrões, prever tendências e otimizar operações com base em dados históricos e em tempo real.
+
+## Bases Transacionais 
+
+Sua principal função é gerenciar, analisar e registrar transações em tempo real, como compras, transferências bancárias, atualizações de inventário, etc.
+Essas transações são operações que envolvem a inserção, atualização, exclusão e consulta de dados e são comumente usadas em aplicativos que exigem um alto nível de integridade e consistência de dados.
+
+### Características 
+
+- ACID: Seguem os princípios de Atomicidade, Consistência, Isolamento e Durabilidade para garantir que as transações sejam processadas de forma segura e confiável.
+  
+- Otimização para Escrita: Prioriza operações de escrita, como inserções, atualizações e exclusões, com foco em rapidez e consistência.
+  
+- Normalização dos Dados: Usam modelos de dados normalizados para evitar redundâncias e garantir a integridade dos dados.
+  
+- Exemplos: MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server.
+  
+- Uso Comum: Sistemas bancários, plataformas de e-commerce, sistemas de gestão de reservas.
+
+Sem essas bases, seria impossível garantir a confiabilidade e a continuidade das operações em setores como finanças, comércio eletrônico, saúde e logística.
+
