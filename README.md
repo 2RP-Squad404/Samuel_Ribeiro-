@@ -50,7 +50,7 @@ git merge: mescla branchs
 
 
 
-## 2. Big Data 
+## Big Data 
 
 Análise e interpretação de grandes volumes de dados diversos.
 
