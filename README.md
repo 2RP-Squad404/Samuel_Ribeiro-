@@ -198,4 +198,6 @@ Modelagem de Dados é o modelo que sera ultilizado para os dados para definir a 
 - Lógico: Detalha os atributos dos dados, entidade, relacionamento, tipo e modelo.
 - Físico: tipo de tecnologia que sera usado (PostgreSQL, MySQL, MongoDB, etc), criação do banco de dados, suas tabelas ou documentos, conexão entre elas e tudo que envolva o seu funcionamento.	
 
+## Bases Analíticas
 
+Bases Anlíticas são sistemas de tecnologias que facilitam a análise de uma grande quantia de dados, gerando um desempenho maior nas consultas tornando elas mais rápidas e eficientes, podem lidar com grandes volumes de dados e aumentar a capacidade conforme necessário, suportam diferentes tipos de dados sejam eles estruturados, semiestruturado ou estruturados, é ultilizado tecnologia avançada de modelagem de dados para organização dos dados de maneira lógica. Além de todas essas características tambem possuem ferramentas para mineração de dados, machine learning, visualização de dados e análise estatística.
