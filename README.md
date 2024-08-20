@@ -404,3 +404,35 @@ O Apache Airflow é uma plataforma de gerenciamento de fluxo de trabalho de cód
 ### Resumo
 
 Apache Airflow é uma ferramenta que ajuda a automatizar e gerenciar tarefas de processamento de dados. Com ele, você pode criar, organizar e monitorar workflows de dados de forma fácil. É muito usado para lidar com tarefas complexas e garantir que seus processos de dados sejam executados de forma eficiente. Além disso, tem uma interface visual bem legal para você acompanhar tudo que está acontecendo.
+
+
+# Mensageria  
+
+A mensageria é um conceito que se refere à troca de mensagens entre sistemas ou componentes de sistemas distribuídos. É uma forma de comunicação entre aplicações e sistemas que permite a entrega confiável e escalável de mensagens entre diferentes partes de uma arquitetura distribuída.
+
+O serviço de mensageria consiste na automação da comunicação, podendo ser feita via pushs ou em atendimentos via chat.
+
+### Tipos de mensageria
+
+Existem vários tipos de mensageria, incluindo sistemas de mensageria, protocolos e exchanges.
+
+- Sistemas de mensageria
+Exemplos de sistemas de mensageria incluem RabbitMQ e Apache Kafka, que têm diferentes particularidades e casos de uso.
+
+- Protocolos
+Exemplos de protocolos de mensageria incluem Java Message Service (JMS), Advanced Message Queuing Protocol (AMQP), Message Queue Telemetry Transport (MQTT) e Simple/Streaming Text Oriented Messaging Protocol (STOMP).
+
+- Exchanges
+Existem quatro tipos de exchanges: direct, fanout, topic e headers, cada uma com a sua própria importância e definição de funcionamento. 
+
+**A mensageria pode ser usada para integrar sistemas de software de diferentes fornecedores ou plataformas, permitindo que sistemas que não são diretamente compatíveis se comuniquem entre si.**
+
+## Exemplos de Sistemas de Mensageria
+
+- RabbitMQ: Uma plataforma de mensagens que suporta filas e troca de mensagens baseadas em tópicos.
+- Apache Kafka: Uma plataforma distribuída para o processamento de streams de dados em tempo real.
+- Google Cloud Pub/Sub: Serviço gerenciado para publicação e inscrição de mensagens.
+- Apache ActiveMQ: Sistema de mensagens de código aberto que suporta vários padrões de mensageria.
+
+A mensageria é uma tecnologia essencial para a construção de sistemas distribuídos modernos, permitindo comunicação eficiente,  escalável e resiliente entre diferentes componentes e serviços.
+
