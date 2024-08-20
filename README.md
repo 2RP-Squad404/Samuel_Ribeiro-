@@ -436,3 +436,59 @@ Existem quatro tipos de exchanges: direct, fanout, topic e headers, cada uma com
 
 A mensageria é uma tecnologia essencial para a construção de sistemas distribuídos modernos, permitindo comunicação eficiente,  escalável e resiliente entre diferentes componentes e serviços.
 
+# Linux/Shell 
+
+No Linux, o shell é um arquivo executável armazenado em /bin. No modo gráfico, um shell é executado em cada terminal aberto. Os comandos digitados pelo utilizador podem ser comandos internos do shell ou programas externos. 
+
+O shell padrão do Linux é o Bash (Bourne Again Shell), que foi desenvolvido por Brian Fox em 1989. O Bash é uma evolução do Shell Bourne (sh), desenvolvido por Stephen Bourne em 1977. 
+
+## Shell 
+
+Um shell é um programa de computador que permite aos utilizadores de Linux e Unix controlar os seus sistemas operativos através de interfaces de linha de comando. Os shells permitem aos utilizadores comunicar de forma eficiente e direta com os seus sistemas operativos.
+
+Os utilizadores podem utilizar os shells para executar comandos, outros programas, serviços e até mesmo outros shells para que possam executar ações sobre o sistema operativo. Os comandos do shell são instruções que podem ser enviadas para o sistema operativo para realizar diversas tarefas, como listar ficheiros, copiar pastas, instalar programas, entre outros. Alguns exemplos de comandos comuns incluem ls (listar ficheiros), cd (mudar de diretório), mkdir (criar diretório) e rm (remover ficheiro). 
+
+Os utilizadores podem também automatizar tarefas utilizando um shell script. Um shell script é um arquivo que contém comandos que podem ser reutilizados quando o uso interativo do shell se tornar cansativo e repetitivo.
+
+## Linux
+
+O Linux é um sistema operativo open source para computadores e outros dispositivos que permite a execução de programas. É composto por um kernel que gere os recursos de hardware e um conjunto de pacotes de software que compõem o resto do sistema operativo. O Linux é desenvolvido de acordo com os princípios de desenvolvimento de software de código aberto, que incluem transparência, colaboração, lançamentos antecipados e frequentes, meritocracia inclusiva e comunidade.
+
+O Linux foi originalmente criado para uso educacional, para que as pessoas pudessem estudar o Unix em casa. Foi escrito do zero e, apesar de ser uma versão do Unix, não contém nenhum código da AT&T, pelo que pode ser distribuído gratuitamente. O núcleo do Linux foi desenvolvido pelo programador finlandês Linus Torvalds, inspirado no sistema Minix. O código-fonte do Linux está disponível sob a licença GPL (versão 2). 
+
+O Linux é escrito na versão da linguagem de programação C suportada pelo GCC, que introduziu inúmeras extensões e mudanças ao C padrão. 
+
+### Exemplos Simples de Shell Script
+
+1. **Script de Backup**:
+    
+    ```bash
+    bashCopiar código
+    #!/bin/bash
+    tar -czf /backup/meuarquivo_backup_$(date +%F).tar.gz /meuarquivo
+    
+    ```
+    
+2. **Script de Verificação de Espaço em Disco**:
+    
+    ```bash
+    bashCopiar código
+    #!/bin/bash
+    echo "Espaço disponível em disco:"
+    df -h
+    
+    ```
+    
+3. **Script de Monitoramento de Processos**:
+    
+    ```bash
+    bashCopiar código
+    #!/bin/bash
+    if pgrep "processo_exemplo" > /dev/null
+    then
+        echo "O processo está em execução."
+    else
+        echo "O processo não está em execução."
+    fi
+    
+    ```
