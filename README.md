@@ -492,3 +492,23 @@ O Linux é escrito na versão da linguagem de programação C suportada pelo GCC
     fi
     
     ```
+
+# CI/CD
+
+Em engenharia de software, CI/CD ou CICD pode se referir às práticas combinadas de integração contínua e entrega contínua. CI/CD preenche as lacunas entre as atividades e equipes de desenvolvimento e operação, reforçando a automação na compilação, teste e implantação de aplicativos.
+
+### Oque é CI?
+
+CI (integração contínua) é a prática de integrar alterações de código em um repositório várias vezes ao dia.
+
+### Oque é CD?
+
+CD tem dois significados: a entrega contínua automatiza as integrações de código, enquanto a implementação contínua libera automaticamente as compilações finais para os usuários finais.
+
+### Como funciona?
+
+Um pipeline de integração e entrega contínuas (CI/CD) consiste em uma série de etapas a serem realizadas para a disponibilização de uma nova versão de um software. Os pipelines de CI/CD são voltados para a melhoria da entrega de softwares em todo o ciclo de vida do desenvolvimento deles por meio da automação.
+
+### Resumo 
+
+CI/CD são práticas essenciais para o desenvolvimento ágil e moderno de software, promovendo a automação, a qualidade e a eficiência no ciclo de vida do desenvolvimento. Com a integração e entrega contínua, as equipes podem garantir que o código esteja sempre pronto para produção, permitindo lançamentos mais rápidos e confiáveis. O deploy contínuo leva isso um passo adiante, automatizando completamente o processo de implantação. Estas práticas são fundamentais para enfrentar a demanda por entregas rápidas e manter a alta qualidade do software.
